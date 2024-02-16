@@ -1,5 +1,4 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-09ec32c3-f22e-490a-9455-d7aab281e9fe,Bez retuszu,2022-11-09T15:44:05.704Z,bde5a14c-00e4-4d21-be11-ef1581d27f11,PO,Poland,pl,106189024132479,Bez retuszu,Facebook
 0010026f-4161-4e9c-8b35-e7f019414777,Piotr Uruski,2023-03-08T18:46:11.528Z,2d5586b9-d5fd-406a-a386-75e52a7d43b7,SP,Poland,pl,483707668473229,Piotr Uruski,Facebook
 1d251dbd-6357-43de-a237-71df379c7161,Mariusz Wierny - Suwerenna Polska Kędzierzyn-Koźle,2023-07-03T06:14:16.770Z,61f4e06b-9966-49ad-aa03-b352a2bd7000,SP,Poland,pl,110397612066253,Mariusz Wierny - Suwerenna Polska Kędzierzyn-Koźle,Facebook
 1f58eeca-b9b0-49a1-b9b1-003247c026dc,Norbert Kaczmarczyk,2022-11-09T15:44:01.560Z,99cd4ddb-ed0e-449c-bc39-e9ed49b3b1c7,SP,Poland,pl,814991668621838,Norbert Kaczmarczyk,Facebook
