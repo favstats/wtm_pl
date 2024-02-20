@@ -1,8 +1,17 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+096f6903-1496-4fec-95e1-1b19bf1816e1,Elżbieta Piniewska Przewodnicząca Sejmiku Woj. Kujawsko-Pomorskiego,2024-02-16T03:05:22.525Z,4449c121-4ac6-4d46-a7e8-5c2608279895,PO,Poland,pl,555541721543748,Elżbieta Piniewska Przewodnicząca Sejmiku Woj. Kujawsko-Pomorskiego,Facebook
 1d0bdcc2-99cc-439e-9b15-d90d5c631a17,Mariusz Śpiewok zastępca prezydenta Gliwic,2024-02-19T03:05:23.243Z,196fdfd1-61cd-49dd-b986-2c8e60927f47,PO,Poland,pl,155274594344996,Mariusz Śpiewok zastępca prezydenta Gliwic,Facebook
+2752011c-ab51-417d-8539-3f362420c6b6,Radny RM Swidnicy Krzysztof Grudziński,2024-02-16T03:05:22.118Z,f18c70f2-299f-47de-9252-6ac35bea8dbb,PO,Poland,pl,1511972515717318,Radny RM Swidnicy Krzysztof Grudziński,Facebook
+4376e15f-c407-4f25-af85-a6adaab2667f,Piotr Lenkiewicz Radny Miasta Torunia,2024-02-16T03:05:22.073Z,7ea20a97-c16a-4a96-8de1-2f61b42e9ba8,PO,Poland,pl,570257180096382,Piotr Lenkiewicz Radny Miasta Torunia,Facebook
+4b1fb4b4-9292-441d-8d37-4e5e476ba7f1,Piotr Michalak kandydat na burmistrza Miasta i Gminy Szamotuły,2024-02-16T03:05:22.138Z,f16a8e11-f4bf-4cd3-928a-8475b595aca5,PO,Poland,pl,240856892434688,Piotr Michalak kandydat na burmistrza Miasta i Gminy Szamotuły,Facebook
 4fa4dc2d-50a1-4c20-aa77-c8ed86ebafd5,Michał Piasecki,2024-02-19T08:16:13.624Z,d81194a4-9054-4e94-9371-605b1994565f,PO,Poland,pl,172036153306875,Michał Piasecki,Facebook
 618c8998-5d68-45a9-93b6-63b300333f2e,Marcin Bulczak,2024-02-19T03:05:23.483Z,4c906f67-2c56-4024-bb3d-ee7911877048,PO,Poland,pl,103545499255143,Marcin Bulczak,Facebook
+6b3c4ee0-6f31-491b-9a64-bc0d0ada46ba,Gracjan Krajewski - Przewodniczący MRM Płock,2024-02-16T03:05:22.544Z,2560c6e8-b753-4509-a48b-4c6ebb1aa207,PO,Poland,pl,105886115486017,Gracjan Krajewski - Przewodniczący MRM Płock,Facebook
+72800d3b-c608-4523-a64a-363a4da38983,Maksymilian Ciszkowski,2024-02-16T03:05:22.084Z,1cae07fe-880f-46ac-809b-08be5d4af219,PO,Poland,pl,169926232869256,Maksymilian Ciszkowski,Facebook
+c09ad89a-1d5f-4209-8059-c4d3e565f473,Kamil Kłosowski - Kandydat na Burmistrza Gminy Krzeszowice,2024-02-16T03:05:22.547Z,bb507e30-961a-4d70-8f22-ef3cc715b036,PO,Poland,pl,214644938398567,Kamil Kłosowski - Kandydat na Burmistrza Gminy Krzeszowice,Facebook
+d853dff1-1d39-408d-865a-65c111025b1b,Karol Pilecki,2024-02-19T03:05:22.740Z,15d5bd54-fbfa-46de-be4a-7c9e83bff6ab,PO,Poland,pl,283947499106438,Karol Pilecki,Facebook
 dec6aaf3-0004-496c-8ca2-da333c4a887e,Agata Wojda,2024-02-16T03:05:22.557Z,524b0cb7-67e9-4550-a3c4-8f7a809c747d,PO,Poland,pl,614527949067381,Agata Wojda,Facebook
+e9a2d413-fdbf-4551-bb81-1c25c154df6f,Joanna Habura,2024-02-18T03:05:17.728Z,7ac94b2c-044d-41a2-8350-3eb44bc187f6,PO,Poland,pl,223102040887647,Joanna Habura,Facebook
 0010026f-4161-4e9c-8b35-e7f019414777,Piotr Uruski,2023-03-08T18:46:11.528Z,2d5586b9-d5fd-406a-a386-75e52a7d43b7,SP,Poland,pl,483707668473229,Piotr Uruski,Facebook
 1d251dbd-6357-43de-a237-71df379c7161,Mariusz Wierny - Suwerenna Polska Kędzierzyn-Koźle,2023-07-03T06:14:16.770Z,61f4e06b-9966-49ad-aa03-b352a2bd7000,SP,Poland,pl,110397612066253,Mariusz Wierny - Suwerenna Polska Kędzierzyn-Koźle,Facebook
 1f58eeca-b9b0-49a1-b9b1-003247c026dc,Norbert Kaczmarczyk,2022-11-09T15:44:01.560Z,99cd4ddb-ed0e-449c-bc39-e9ed49b3b1c7,SP,Poland,pl,814991668621838,Norbert Kaczmarczyk,Facebook
@@ -141,6 +150,7 @@ f6707bfc-dcdc-4ec8-825f-4cfe949c2a8c,Tadeusz Woźniak - Poseł na Sejm RP,2023-0
 2378fa77-76f7-42dd-a877-fbe29cf7a079,Wojciech Jaroszko,2023-08-20T05:06:03.530Z,f376b8cb-5e8b-42de-861a-04a1eefe6913,INNY,Poland,pl,106184442567697,Wojciech Jaroszko,Facebook
 2413a2fd-eb1c-45f3-956a-636434666870,Irena Chmielowska Radna Rady Miasta Świeradów-Zdrój,2023-06-27T06:55:33.489Z,235d0c75-06a9-46a3-98a4-3c99b47bc6e6,INNY,Poland,pl,2112537838971804,Irena Chmielowska Radna Rady Miasta Świeradów-Zdrój,Facebook
 242933bd-e875-4b4f-b95d-24f9bb04e1b2,JAK to JEST KO ?,2023-04-25T06:51:09.450Z,d78d5fa9-bde8-45c6-b3aa-d4e83a68626b,INNY,Poland,pl,100701249683094,JAK to JEST KO ?,Facebook
+24462b4c-164f-47ac-b2a6-df2a73ae21c5,Zmęczeni Silbertem,2024-02-16T03:05:21.693Z,0700c646-e1ec-4a1b-be8f-eced57aca036,INNY,Poland,pl,177500956362391,Zmęczeni Silbertem,Facebook
 250b7b2e-ee80-47f7-8196-92bc94132ca2,Fundacja Wolności,2022-11-09T15:44:03.780Z,b9ba058c-579b-4add-998d-1bf7bcca64de,INNY,Poland,pl,385002801535504,Fundacja Wolności,Facebook
 25d47b99-3991-44ed-8d7c-3651b437de3d,Pojęcie małżeństwa w pryzmacie teorii wymogów imperatywnych,2022-11-09T15:44:02.075Z,ca8ed840-41cc-4daa-9443-c6a8755ba90a,INNY,Poland,pl,104291779009388,Pojęcie małżeństwa w pryzmacie teorii wymogów imperatywnych,Facebook
 269a9d3e-63e5-4f64-ac77-206c2c1529cb,Krzysztof Putyra - kandydat do Rady Dzielnicy XIII Podgórze,2023-12-01T05:05:43.621Z,6bfd3c01-b6a9-45f6-8a69-cc2197944d42,INNY,Poland,pl,176346032228637,Krzysztof Putyra - kandydat do Rady Dzielnicy XIII Podgórze,Facebook
@@ -175,6 +185,7 @@ f6707bfc-dcdc-4ec8-825f-4cfe949c2a8c,Tadeusz Woźniak - Poseł na Sejm RP,2023-0
 313d198d-5f24-405c-baf9-410695ec72fa,Grupa EPL w Parlamencie Europejskim,2022-11-09T15:44:00.617Z,06338942-cb0b-4962-926a-54822bde177c,INNY,Poland,pl,520444618035778,Grupa EPL w Parlamencie Europejskim,Facebook
 31ee3bd3-d7ec-4ac9-af86-022a7a25d91e,Kamień Reaktywacja - Budżet Obywatelski 2023,2022-11-09T15:44:03.680Z,d1198df7-e0d9-4ae6-a16e-907dc8f60590,INNY,Poland,pl,103649189980215,Kamień Reaktywacja - Budżet Obywatelski 2023,Facebook
 324a7e1b-9178-45a3-95c0-b6caee551fc8,Andrzej Kulig,2023-11-30T05:05:48.453Z,4b98da6a-020e-4e5f-8d7a-fde44442bafa,INNY,Poland,pl,106215895116028,Andrzej Kulig,Facebook
+32a46d83-f30e-4023-981c-671924d51680,Kamil Łach,2024-02-16T03:05:22.535Z,d2fc303a-1c0a-4e19-9560-662ad3a2163a,INNY,Poland,pl,238732532648952,Kamil Łach,Facebook
 32aff7ec-1c69-478f-8b8d-78c707eca2c4,Jarosław Rudnicki - Radny Rady Miejskiej Dzierżoniowa,2023-03-06T10:51:31.758Z,91ccff0d-181d-48f9-bde5-aefd0d46dc6d,INNY,Poland,pl,1561451467418830,Jarosław Rudnicki - Radny Rady Miejskiej Dzierżoniowa,Facebook
 32bd421e-9c26-49f0-bfa1-1869d1c06681,Radny SZOPA,2023-02-11T10:51:18.211Z,1872d1b6-5ba1-48a2-9e44-219d7fd0b0be,INNY,Poland,pl,102440065924109,Radny SZOPA,Facebook
 33e9b06b-a773-44a9-9ef2-6f61ce2de8c3,Marek Bąkowski,2023-09-27T05:05:46.401Z,6fba586a-26e8-4e27-8573-9e8f6c03be9b,INNY,Poland,pl,136740323662828,Marek Bąkowski,Facebook
@@ -212,6 +223,7 @@ f6707bfc-dcdc-4ec8-825f-4cfe949c2a8c,Tadeusz Woźniak - Poseł na Sejm RP,2023-0
 3d89ca9e-fba1-4659-b150-fb6d956f54b3,Echo Dnia Jędrzejów,2022-11-09T15:44:05.656Z,b76d400e-48c8-4f30-9fd7-c25dc05c2dbe,INNY,Poland,pl,305667649497738,Echo Dnia Jędrzejów,Facebook
 3dc6645e-d097-4313-bb89-1e5a39b31672,Grzegorz Janota,2024-01-24T05:05:25.667Z,905c32a8-f181-4463-9ae8-2fe100b2b5b5,INNY,Poland,pl,203145239541534,Grzegorz Janota,Facebook
 3faaec11-4f35-45c0-b1fa-0585623b7dfb,Śląska Opinia,2022-11-09T15:44:02.036Z,a35eab40-0de1-4c03-aca6-e652cfc566ca,INNY,Poland,pl,813355372354226,Śląska Opinia,Facebook
+417592f5-c21f-4389-8c27-6059222b85bf,Marsz Niepodległości 2023,2024-02-16T03:05:21.581Z,8fafbf6d-a0c0-4467-b516-6e939c38db42,INNY,Poland,pl,123829674148755,Marsz Niepodległości 2023,Facebook
 417aa5f5-31bf-4f3e-9d41-5e681d61051e,Verba Veritatis • Instytut do Walki z Antypolonizmem,2022-11-09T15:44:00.237Z,7c96745d-af9e-4b5d-b74e-0e2bcdad3db7,INNY,Poland,pl,101495964956858,Verba Veritatis • Instytut do Walki z Antypolonizmem,Facebook
 4188ad47-3d51-41e1-a937-c6610aabeb70,Janusz Okrzesik,2023-03-08T18:03:38.841Z,5af2b952-5e69-47c8-a486-a81f4b855b4b,INNY,Poland,pl,610880155688622,Janusz Okrzesik,Facebook
 419547b3-81d2-4b77-a9bb-b6f62bb468ba,Wizjoner- Jarosław Krężel,2023-02-10T10:51:39.184Z,52271b95-f010-48f7-808b-e182359b3486,INNY,Poland,pl,1389403614657474,Wizjoner- Jarosław Krężel,Facebook
@@ -228,6 +240,7 @@ f6707bfc-dcdc-4ec8-825f-4cfe949c2a8c,Tadeusz Woźniak - Poseł na Sejm RP,2023-0
 45a007df-c2fe-4b65-a1bc-1ca311f6f1d8,Paweł Kądziela - Radny Gminy Szydłowo,2022-11-09T15:44:05.922Z,bb620d6c-2d1f-4441-a2a6-cd20ab8ab6db,INNY,Poland,pl,300547004012162,Paweł Kądziela - Radny Gminy Szydłowo,Facebook
 45b71d80-a0a9-4c10-abfc-7a6b2512035a,Dom Współpracy Polsko-Niemieckiej,2022-11-09T15:44:01.625Z,7ec14757-e7a0-43d4-80e7-4bfd82dd17a2,INNY,Poland,pl,341803579195956,Dom Współpracy Polsko-Niemieckiej,Facebook
 45e7bb87-c537-4c13-a473-451361ebcd47,Ośrodek Monitorowania Antypolonizmu,2023-03-14T10:51:12.796Z,09bc710e-4b58-4192-8bdf-788b676f96bd,INNY,Poland,pl,578864425792499,Ośrodek Monitorowania Antypolonizmu,Facebook
+45f4d14a-4ab6-4ac8-88c9-421de2547d78,Filip Pinas,2024-02-18T03:05:17.609Z,088d4530-e303-4281-a914-f0fc649d3b72,INNY,Poland,pl,174264795781223,Filip Pinas,Facebook
 46502f85-f704-416c-8e66-57f278602c40,Alternatywa Młodych dla Krakowa,2022-11-09T15:44:03.884Z,e2a177bd-99bf-46f1-8028-9f7fded4a66a,INNY,Poland,pl,101519849212060,Alternatywa Młodych dla Krakowa,Facebook
 467406e7-3ba9-4fe9-9e03-208602cafb7d,Stacja Pyskowice - Kolej Aglomeracyjna dla GOP,2023-04-08T10:51:28.341Z,a35e06e0-d929-41fe-82e5-3be57e0d4e25,INNY,Poland,pl,1636624093292458,Stacja Pyskowice - Kolej Aglomeracyjna dla GOP,Facebook
 46a73c7b-0599-4c2d-8d6d-c9d865a421f4,Prawa Strona Kościerzyny,2023-04-28T06:51:11.417Z,ce35f1d9-5f31-468d-b98c-1999323a7b0b,INNY,Poland,pl,103524062626975,Prawa Strona Kościerzyny,Facebook
@@ -264,6 +277,7 @@ f6707bfc-dcdc-4ec8-825f-4cfe949c2a8c,Tadeusz Woźniak - Poseł na Sejm RP,2023-0
 4f901c91-ff5d-43ad-b4ba-d0b08ff04eb8,Michał Jaśniok - gliwicki radny,2024-01-11T05:05:27.515Z,60df6f9a-97ae-4890-b4f2-d00df6b4d76e,INNY,Poland,pl,353520278185456,Michał Jaśniok - gliwicki radny,Facebook
 5002382b-ea33-4c24-af9f-eb776a6ac8a9,Jacek Kuźniewicz - samorządowiec,2023-04-21T06:51:32.213Z,a3bc6517-f964-4b92-8b5d-f5545108516f,INNY,Poland,pl,1422828751268697,Jacek Kuźniewicz - samorządowiec,Facebook
 500e3743-e083-4484-a8de-22ebae792906,Miasto Piła - Jawna Gmina - Jawny Powiat,2022-11-09T15:44:05.637Z,e41fafe5-32ff-4702-88a6-71e81b366059,INNY,Poland,pl,104735721788660,Miasto Piła - Jawna Gmina - Jawny Powiat,Facebook
+5037e816-6554-43bd-9cbe-9ea2c31ff37a,Piotr Karol Potempa,2024-02-18T03:05:17.649Z,8628920f-d6a5-4ffe-9862-2be9907ae21a,INNY,Poland,pl,401500320035708,Piotr Karol Potempa,Facebook
 50535f18-6ce3-4f56-ae07-051b7f755696,Maciej Marzec - profil publiczny,2023-04-14T08:46:50.315Z,972b5073-a5ff-407c-a13b-65c3c5f9f71a,INNY,Poland,pl,105526258999822,Maciej Marzec - profil publiczny,Facebook
 507625e4-7696-48ff-b699-f5c157cb1382,Grajewo naszemiasto.pl,2023-10-02T05:05:08.666Z,263cec51-e2fe-4f64-8fff-c742e718d551,INNY,Poland,pl,732339413563873,Grajewo naszemiasto.pl,Facebook
 50aa48dd-5162-473c-bc76-bcb84eb1e876,Bartosz Brożyński - radny osiedla,2023-08-25T05:05:14.500Z,0901c049-2e0e-416a-b35a-ebdf23b69cd5,INNY,Poland,pl,329315154237776,Bartosz Brożyński - radny osiedla,Facebook
@@ -377,6 +391,7 @@ f6707bfc-dcdc-4ec8-825f-4cfe949c2a8c,Tadeusz Woźniak - Poseł na Sejm RP,2023-0
 791cd1b4-228d-4abb-beb1-fe24759fe78e,Kamil Błaszczuk,2022-11-09T15:44:04.796Z,a792a90f-126d-4d33-8ae3-9e3dba2495a4,INNY,Poland,pl,386553951416806,Kamil Błaszczuk,Facebook
 7973abb2-634b-48ba-a6da-c6447c9d68cb,Michał Kądziołka - Radny Rady Miasta Nowego Sącza,2023-05-10T06:51:32.815Z,092ed04b-6ca0-43e5-8dd2-f1ca5e273db8,INNY,Poland,pl,483773248777171,Michał Kądziołka - Radny Rady Miasta Nowego Sącza,Facebook
 7981bfc9-65b6-4289-b0c6-b8e96e6e86e0,Wolne sądy,2023-10-10T05:05:28.969Z,c218a9cc-7bc3-4333-a91a-5a05876fc119,INNY,Poland,pl,1691008467873135,Wolne sądy,Facebook
+7a150144-9b68-42cd-aa9c-6727a5604928,Ariel  Langner - kandydat,2024-02-18T03:05:17.675Z,b5a987b8-bbf1-4cb6-8cfb-82c3ec0b86de,INNY,Poland,pl,232416893286963,Ariel  Langner - kandydat,Facebook
 7be6db4a-8892-4025-a623-64a92a9b594e,Bydgoski Ruch Miejski,2022-11-09T15:44:05.344Z,61dcc6d9-f979-4571-8a17-8f4183f4e89c,INNY,Poland,pl,1396767420366533,Bydgoski Ruch Miejski,Facebook
 7c1c2b84-7854-4bab-924f-cadd5de0e02d,Marcin Nikrant - Radny Gminy Puck,2023-08-13T05:06:26.674Z,7793b441-4c97-429d-8850-13e084390e03,INNY,Poland,pl,309988946382345,Marcin Nikrant - Radny Gminy Puck,Facebook
 7c7960c4-9374-4471-aa1c-3ada542203eb,Małgorzata Wleklak - Radna Osiedla,2022-11-09T15:44:04.854Z,f2be1de0-c028-48c3-9c5b-3424a91b52c2,INNY,Poland,pl,1575243016027595,Małgorzata Wleklak - Radna Osiedla,Facebook
@@ -491,6 +506,7 @@ aa7cf938-d80c-423e-925a-36a36e3a03e9,Marcin Kiwior - Wójt Gminy Skrzyszów,2023
 aaa790d7-ad14-4f7f-8602-9a29ab860b4f,Marsz Niepodległości,2022-11-09T15:44:03.979Z,de57e3cd-e38a-4160-a0bb-467c733ebf12,INNY,Poland,pl,152249174810492,Marsz Niepodległości,Facebook
 ac5fee6a-c8b0-40f2-9d26-5df388ac4e95,Arkadiusz Gębicz,2023-11-22T05:05:37.700Z,73117f06-c142-48b5-b6eb-89df37a1358f,INNY,Poland,pl,107896018434196,Arkadiusz Gębicz,Facebook
 ad34952c-f62c-4383-a316-c632a9fa25fa,W Obronie Zdrowia,2023-02-23T10:51:38.382Z,0e1aa131-c1b1-480c-8a9a-65d45550df79,INNY,Poland,pl,100569026183717,W Obronie Zdrowia,Facebook
+ae13e93b-759f-4f65-bb53-1f3bf4c0e137,Krzysztof Zdobylak - Przewodniczący Rady Miejskiej w Gubinie,2024-02-18T03:05:17.669Z,99551533-0be6-4816-8074-0e02030cc4e1,INNY,Poland,pl,561163413899670,Krzysztof Zdobylak - Przewodniczący Rady Miejskiej w Gubinie,Facebook
 ae503831-12cc-4b6e-bd13-eef3f8b6a0c5,Wybory do Rady Mieszkańców Siechnic,2023-05-29T06:51:17.657Z,f6de0280-85e8-4e2d-9d9f-2dbe7ac1a02f,INNY,Poland,pl,111038301997207,Wybory do Rady Mieszkańców Siechnic,Facebook
 aeb13dd5-0843-4c1e-ac78-08046b7a6464,Wojciech Osłowski,2022-11-09T15:44:03.696Z,555c17b7-5cd4-417d-828b-4e43a88acb62,INNY,Poland,pl,107488398743882,Wojciech Osłowski,Facebook
 aeccefe7-67d9-4cc0-b067-bbc24d814d10,Telewizja Dami Region,2022-11-09T15:44:01.137Z,839e7c5b-78cc-46ee-a18f-4387c816a992,INNY,Poland,pl,139576942808077,Telewizja Dami Region,Facebook
@@ -521,6 +537,7 @@ b6eb808c-7e9c-4fb2-8c3f-545622f6ceba,Gdańskie Forum Samorządowe,2023-04-19T06:
 b75fa120-0d58-45e3-8903-2fc7b246f9b3,Paweł Bujak,2022-11-09T15:44:03.644Z,70567284-b91a-4fff-b7cb-9ffe723efd11,INNY,Poland,pl,1935398849860973,Paweł Bujak,Facebook
 b855d05a-2f0f-4b09-863e-1d42108cd4b1,Beata Kozik - Wiceprezydent Miasta Puławy,2022-11-09T15:44:04.660Z,34c1a153-ed68-465f-94f1-1d36b2a10233,INNY,Poland,pl,170381900508432,Beata Kozik - Wiceprezydent Miasta Puławy,Facebook
 b870bfa6-562f-47d6-80f8-be7ed283b5e3,Liliana Bareła-Palczewska Radna Rady Miejskiej Rumi,2023-09-08T05:05:30.449Z,cb0f1c75-13f7-4c1b-9ad2-717d24443c25,INNY,Poland,pl,534561470300932,Liliana Bareła-Palczewska Radna Rady Miejskiej Rumi,Facebook
+b903b1dc-be90-4b46-b089-cdf9f241fe23,Marta Słaby - Wójt Gminy Łabowa,2024-02-16T03:05:22.547Z,8509d84f-9f6d-4f5e-a467-45c639174520,INNY,Poland,pl,501921900281248,Marta Słaby - Wójt Gminy Łabowa,Facebook
 bb2c114d-ce06-44e8-bd95-4d7ee827810f,Młodzieżowy Strajk Klimatyczny,2023-08-26T05:05:22.866Z,053589e6-d0ac-4b17-84b3-5478064bb733,INNY,Poland,pl,297978917494006,Młodzieżowy Strajk Klimatyczny,Facebook
 bb86462a-01e4-4cdb-a267-cb8e1f36a82a,Odszkodowania Za Represje 1944-1989,2023-02-07T15:05:58.112Z,74027ac8-bf0d-41c2-a705-3dd798d348f8,INNY,Poland,pl,108301418501661,Odszkodowania Za Represje 1944-1989,Facebook
 bba01661-ef96-4665-93d0-15f6beb4f740,Stowarzyszenie im. Tadeusza Regera - pismo Równość,2022-11-09T15:44:03.679Z,e62c13b1-8d8c-46f2-abcc-65dea93b0c60,INNY,Poland,pl,699761540194215,Stowarzyszenie im. Tadeusza Regera - pismo Równość,Facebook
@@ -605,6 +622,7 @@ da39fc72-513d-4e58-9376-3e2607707c2b,Wojciech Wąchała,2023-03-08T14:39:25.172Z
 dad83043-389b-4685-9032-d0681351210a,Malgorzata Wilkos,2023-07-24T05:06:01.275Z,3e2f4bed-5410-43ca-8c72-d3244d9ca192,INNY,Poland,pl,1409912839305445,Malgorzata Wilkos,Facebook
 dae51ee3-a8ab-45ee-b739-873348afb2f6,Olsztyński Marsz Równości,2023-04-25T06:51:09.220Z,6cbed023-0bcf-464e-924f-a241687839d9,INNY,Poland,pl,1563121843792594,Olsztyński Marsz Równości,Facebook
 db00a52c-9ceb-47b1-8504-ca3ebb1e94bf,Akademia Demokracji,2023-08-29T05:05:18.448Z,43d08413-e027-46f1-9ae4-39658cdccb24,INNY,Poland,pl,110112245415616,Akademia Demokracji,Facebook
+db1b036f-f58f-4f19-a126-fcccaf1b804c,Jacek Jarmołowicz - Kandydat na Wójta Gminy Juchnowiec Kościelny,2024-02-18T03:05:17.229Z,5d49313a-2a93-4f79-8610-fca84c8552bb,INNY,Poland,pl,185113861355025,Jacek Jarmołowicz - Kandydat na Wójta Gminy Juchnowiec Kościelny,Facebook
 db6c9a87-e6f2-4cc7-a4b8-fb2a33d26a31,Lepszy Kraków,2023-02-12T10:51:25.819Z,e168352e-8ca9-4586-be13-8f3e942f4ab3,INNY,Poland,pl,104858439063914,Lepszy Kraków,Facebook
 dbc13ad3-5947-47a0-aaf0-b1940ab68c2b,Niezatapialna Wioska Młoty,2023-04-04T10:51:34.990Z,5884be97-316e-4d91-80ae-18c017b0444e,INNY,Poland,pl,109753608718197,Niezatapialna Wioska Młoty,Facebook
 dc50a8a6-124c-4d80-b3c0-b5db01a4f498,Marek Woźniak,2022-11-09T15:44:00.404Z,5df15382-411d-4074-9c33-43988f4c883a,INNY,Poland,pl,109218848183780,Marek Woźniak,Facebook
@@ -677,8 +695,10 @@ f52dd7ae-9b86-4f8f-a689-43836ed074ef,Nasza Gmina Nasze Życie,2023-05-08T06:51:0
 f55d1c91-c34c-4c11-9cdd-f8961a0a7d09,Światowy Ruch Katolików na rzecz Środowiska,2022-11-09T15:44:04.282Z,9064098b-1697-497b-88ce-73f1551d91e0,INNY,Poland,pl,197272847700522,Światowy Ruch Katolików na rzecz Środowiska,Facebook
 f5d12707-be38-4796-89f9-5337e25ffa58,Stowarzyszenie Dla Przyszłości Sierpca i Powiatu Sierpeckiego,2023-04-04T10:51:35.474Z,a9ad9ab5-2350-44a8-a44c-62d17856ae81,INNY,Poland,pl,103036738011796,Stowarzyszenie Dla Przyszłości Sierpca i Powiatu Sierpeckiego,Facebook
 f702f367-9a5c-4f49-83e7-3b2b5cc8a6e2,Andrzej Filipczak,2023-09-06T05:05:24.077Z,3078e7f5-4f31-4e24-a311-a83cd6fa9843,INNY,Poland,pl,1108296205994357,Andrzej Filipczak,Facebook
+f7805a2d-b03a-4163-beba-2a84188ce312,Adam Kostrząb - Zastępca Burmistrza Brzostku,2024-02-16T03:05:22.074Z,77d81528-301e-4bdf-9f28-cebed8dd1a97,INNY,Poland,pl,105554351777722,Adam Kostrząb - Zastępca Burmistrza Brzostku,Facebook
 f78b3285-61b1-41c5-8155-b42a3178f570,Ogólnopolski Kongres Małżeństw w Świdnicy,2023-08-14T05:05:39.452Z,bd2d9f58-3513-48c7-a791-dd09e9f65a2d,INNY,Poland,pl,406113753227132,Ogólnopolski Kongres Małżeństw w Świdnicy,Facebook
 f7f332d5-c7fd-4078-911f-f8008f4ed358,Krzysztof Strynkowski,2024-02-19T08:16:13.777Z,2ff5d2dc-2319-46ef-9039-0ce39dccdec0,INNY,Poland,pl,104655599380880,Krzysztof Strynkowski,Facebook
+f8f8c879-a3a0-4b71-9c5f-debeebe1f79e,Arkadiusz Czech - burmistrz Tarnowskich Gór,2024-02-18T03:05:17.592Z,ad830483-585e-494d-8c6c-0a7885566673,INNY,Poland,pl,168006736550429,Arkadiusz Czech - burmistrz Tarnowskich Gór,Facebook
 f91d75c7-9f06-413d-829d-616344b2959b,Grzegorz Glimasiński Radny Powiatu Tomaszowskiego,2023-02-08T05:57:26.496Z,9b5db4ba-e987-42ff-bd10-0f7ea795df3d,INNY,Poland,pl,1940865619540933,Grzegorz Glimasiński Radny Powiatu Tomaszowskiego,Facebook
 f933f516-e5cb-4071-a048-4b2ff1bd7242,Jarosław Kempa,2024-01-19T05:05:28.668Z,8c915426-1efa-45de-862f-028c3ae0f149,INNY,Poland,pl,179523395246334,Jarosław Kempa,Facebook
 f9af207a-eb9d-49b3-8ff5-9cf8f8c577c0,Ostróda 2023,2022-11-09T15:44:03.805Z,4c205dd5-39b6-48ac-b659-57e3662ee33b,INNY,Poland,pl,100322108148291,Ostróda 2023,Facebook
@@ -703,6 +723,7 @@ fec4d9a3-3542-4d19-9fee-30b4a85e34d3,Grzegorz Mrowiński,2023-11-30T05:05:49.194
 ff34f8fd-f672-4b4b-bf55-42d6139028da,Samorządowcy Powiatu Cieszyńskiego,2024-02-18T03:05:17.362Z,699da800-2074-4cc5-9ac6-fe0ef92a8f5a,INNY,Poland,pl,1492308381024964,Samorządowcy Powiatu Cieszyńskiego,Facebook
 ff7280c8-a5fb-4838-b942-637ca30af691,Konrad Kostrzewa - Przewodniczący Rady Miasta Kobyłka,2023-08-20T05:06:03.457Z,4051de03-191e-488a-9e87-51f10b60a38e,INNY,Poland,pl,818035361594011,Konrad Kostrzewa - Przewodniczący Rady Miasta Kobyłka,Facebook
 ff83f0e0-b0e3-4eb4-a01c-1b1b6c197258,Twój wybór,2023-09-22T04:06:44.021Z,81741d88-a69a-46f4-97f3-ffbdf2699bc2,INNY,Poland,pl,118128341386174,Twój wybór,Facebook
+01797b4e-08ed-4533-ba40-0ec2f21d0313,Łukasz Jamrozik -  Wiceprzewodniczący Regionu Polska 2050,2024-02-16T03:05:21.731Z,baecab35-1067-465c-8679-0565d19d449d,PL2050,Poland,pl,115007314927894,Łukasz Jamrozik -  Wiceprzewodniczący Regionu Polska 2050,Facebook
 0164b6fe-baef-416a-a337-a3a3dc856fe4,Krosno Plus - Miasto na plus,2023-10-06T05:05:50.615Z,0edaee56-18ef-4143-a713-dfc5b6fb76de,GOV,Poland,pl,103327058160891,Krosno Plus - Miasto na plus,Facebook
 02744026-d5c2-41a9-b07c-bd2a6092f083,Ministerstwo Rolnictwa i Rozwoju Wsi,2023-05-06T06:51:37.449Z,8dda26f3-f4cf-4b7a-ab98-979671cae249,GOV,Poland,pl,252707301407911,Ministerstwo Rolnictwa i Rozwoju Wsi,Facebook
 0279308b-8dd2-4beb-a8f6-c99e627438e4,Gmina Rawicz,2023-06-23T05:15:13.461Z,1b52b193-6b90-4296-adcb-7be0246959ef,GOV,Poland,pl,555545397855733,Gmina Rawicz,Facebook
@@ -923,8 +944,10 @@ fcc5400f-55ef-4b3e-b721-5f81e8171a66,Powiatowe Centrum Kultury Fabryczka,2023-08
 fd11dcdd-146c-4c0a-ba1e-5cddf59c0256,Województwo Opolskie,2023-09-24T05:05:35.218Z,5e672c86-ab58-4f33-bf8e-4a735131bbbd,GOV,Poland,pl,558380767531776,Województwo Opolskie,Facebook
 fd7f64d8-8954-4b2d-9c7f-0e6826c9554a,Rowerowy Poznań,2022-11-09T15:44:01.578Z,696e9fd4-fd81-4ad8-8316-06adc0788b56,GOV,Poland,pl,264330441026,Rowerowy Poznań,Facebook
 fe01250d-93a2-43da-ad26-f557d895a245,ŚWIDNICA rynek z tradycjami,2023-06-09T06:51:19.347Z,65c52e75-ea0e-4ec5-aea5-1498c1b96185,GOV,Poland,pl,125466817497861,ŚWIDNICA rynek z tradycjami,Facebook
+824e03fc-148f-40d1-93dd-9ac763decf14,Andrzej Prendke - Wiceprzewodniczący Nowoczesnej,2024-02-16T03:05:22.059Z,2b84fb14-a699-4846-a21c-3365818b8f82,N,Poland,pl,335074380371998,Andrzej Prendke - Wiceprzewodniczący Nowoczesnej,Facebook
 7962d56d-e6f8-4b92-8160-f6a40eb6c408,Jagoda Żyłkowska - Radna Osiedla Stare Miasto,2024-02-19T03:05:23.121Z,298a135b-2044-4558-87b4-8585881af2f4,PZ,Poland,pl,235843770392778,Jagoda Żyłkowska - Radna Osiedla Stare Miasto,Facebook
 008fd337-e24f-438b-bcc1-9bc38a3e9140,Krzysztof Wawrzyniec Borkowski,2023-10-06T05:05:48.689Z,ffa3c56c-89d5-41ae-9dca-2e8d203ca0bb,TD,Poland,pl,1040090759342707,Krzysztof Wawrzyniec Borkowski,Facebook
+01797b4e-08ed-4533-ba40-0ec2f21d0313,Łukasz Jamrozik -  Wiceprzewodniczący Regionu Polska 2050,2024-02-16T03:05:21.731Z,60548c36-f809-4826-b67b-3262ac8c4f1e,TD,Poland,pl,115007314927894,Łukasz Jamrozik -  Wiceprzewodniczący Regionu Polska 2050,Facebook
 042d8c0a-11fb-4ba1-9703-58ec243c00d9,Stanisław Rakoczy,2023-10-13T05:05:39.733Z,17afd44f-44f3-437c-bb61-a4cbae81e7a7,TD,Poland,pl,1542365002656531,Stanisław Rakoczy,Facebook
 04416bed-3dfb-4d37-a1a8-4b1456e6e729,Nr 17 Kalbarczyk,2023-10-04T05:05:24.644Z,6c719bfb-066e-4cc2-9ce3-3213ec6cd488,TD,Poland,pl,137295789465304,Nr 17 Kalbarczyk,Facebook
 04dc4429-3c70-4791-b1eb-5f73487bc803,Jakub Stefaniak,2023-04-12T10:51:03.221Z,a6ba76fc-9396-4073-bb18-917736332a97,TD,Poland,pl,1694548924099230,Jakub Stefaniak,Facebook
@@ -936,6 +959,7 @@ fe01250d-93a2-43da-ad26-f557d895a245,ŚWIDNICA rynek z tradycjami,2023-06-09T06:
 0b6e7cb6-5b62-40f5-9d34-fb3f0f3b62f1,Michał Postek,2023-10-08T05:05:53.325Z,85de78f3-0eb6-438d-84df-3835b1979265,TD,Poland,pl,100240251370716,Michał Postek,Facebook
 0b773952-58e7-438a-805a-88b36186dd21,Iwona Kalita,2023-09-22T04:06:45.414Z,9fc786e2-bcfa-4c6c-ad3e-09e3a6f5f558,TD,Poland,pl,114094671679674,Iwona Kalita,Facebook
 0b9155d8-0edd-44b2-8798-ae318717fab1,Marek Krawczyk,2023-02-09T06:25:59.214Z,4ee3af3b-c6cd-45b2-96fe-4f8387b221ca,TD,Poland,pl,103718909184760,Marek Krawczyk,Facebook
+0cc078f3-80b2-4933-9e3d-3e07d1ef3f6a,Krzysztof Sączawa - Kandydat do Rady Miasta Jaworzna,2024-02-16T03:05:22.105Z,1da81e1b-4076-45b6-98f7-da8bc30c3cda,TD,Poland,pl,356148858267129,Krzysztof Sączawa - Kandydat do Rady Miasta Jaworzna,Facebook
 0d4bc2ed-73cf-4470-849a-002fb5159eab,Aleksander Wasyluk - kandydat na Posła RP,2023-10-15T05:05:31.582Z,10c379a9-fc10-44a3-9655-17697e3ee01f,TD,Poland,pl,2084228538503931,Aleksander Wasyluk - kandydat na Posła RP,Facebook
 0d85847d-f24b-48c0-83bd-a7c8eddced3e,Jacek Protasiewicz,2023-10-01T05:05:38.734Z,12b726a2-fdff-4a9f-a0b9-d0f745d4743f,TD,Poland,pl,1868943953335518,Jacek Protasiewicz,Facebook
 0dd365ad-509e-4310-905c-240539fd5fa1,Miłosz Szatan,2023-10-24T05:05:26.536Z,138622db-d4e0-4111-8485-9e28a48de916,TD,Poland,pl,102015822642939,Miłosz Szatan,Facebook
@@ -1392,6 +1416,7 @@ da919458-aa2e-4502-8b45-76a202d27238,Artur Komoter,2023-06-12T06:51:15.908Z,d89e
 daa06386-d82a-4556-a9da-299143b83d28,Bartłomiej Pejo,2022-11-09T15:44:04.838Z,34fa6547-d4a1-41ce-9a5b-84843701e480,KWIN,Poland,pl,1501126606805377,Bartłomiej Pejo,Facebook
 dc5f1339-21fd-4de1-8d3c-2fd7752270aa,Marcin Pietras,2023-07-10T06:49:38.874Z,2e21f0c0-1103-4b2a-a951-08e9610e4e73,KWIN,Poland,pl,710703949021669,Marcin Pietras,Facebook
 e1a70a15-7f41-4b67-afa6-451b1275edd3,Stanisław Derehajło,2023-02-17T10:51:22.511Z,c069d475-b467-4be5-9c4e-6d3e9892b5d0,KWIN,Poland,pl,323818978380073,Stanisław Derehajło,Facebook
+e3d3af5d-2c94-4818-b92c-6a318a40b73e,Patryk Grenda,2024-02-18T03:05:17.634Z,e5d75110-a3e9-4bbe-9865-b95afd026b6c,KWIN,Poland,pl,130245586844748,Patryk Grenda,Facebook
 e526ecba-55a3-4528-bca4-ad9e3b8974bb,bartosz_grula,2023-08-02T05:06:08.958Z,7dc3d56b-2262-4a54-a9e4-90b47f8cc5ab,KWIN,Poland,pl,101396459717426,bartosz_grula,Facebook
 e5a99785-ff58-467a-bf28-c44e2b4341f0,Piotr Wojtasik,2023-10-01T05:05:37.978Z,46b9a969-3451-4905-9568-b65624d6c2b8,KWIN,Poland,pl,489085564565731,Piotr Wojtasik,Facebook
 e984e4d1-8534-4aa6-8742-8ceda2243ac3,Jacek Władysław Bartyzel,2023-10-13T05:05:41.843Z,bdbe0c50-f8b3-492a-b4bd-3e9d65147d2d,KWIN,Poland,pl,136341573202899,Jacek Władysław Bartyzel,Facebook
@@ -2097,6 +2122,7 @@ ffdab050-3227-4393-81ca-44fc8af92114,Janusz Gromek - Senator RP,2023-07-25T05:06
 095ad5bb-554e-412c-b8ca-881005dd34c5,Gliwicka kartka z kalendarza,2023-02-07T15:05:58.540Z,7778b35e-53d1-47f4-96aa-3c98d1cb72a0,ZP,Poland,pl,108137288741362,Gliwicka kartka z kalendarza,Facebook
 09c899f7-0637-440d-996e-10b5254a4035,Mariusz Gromko - Senator RP,2022-11-09T15:44:03.839Z,4ce8485d-f8d2-4252-a6b9-4c3a490fecca,ZP,Poland,pl,108731657156411,Mariusz Gromko - Senator RP,Facebook
 0a698d74-5db0-4bd9-9041-8d7b640ce81f,Przemysław Drabek - Poseł na Sejm RP,2023-09-29T05:05:33.751Z,2fd0b5bb-cc11-4ce9-aabf-999481cda97a,ZP,Poland,pl,253230254876460,Przemysław Drabek - Poseł na Sejm RP,Facebook
+0a9fa729-7047-4409-b4eb-4fc45306da87,Łukasz Kapustka - Radny Miasta Poznania,2024-02-16T03:05:22.496Z,f11f561f-17c4-481a-a3a1-6911293ba1b9,ZP,Poland,pl,777487842314408,Łukasz Kapustka - Radny Miasta Poznania,Facebook
 0abe0cbe-67ad-45fa-8c7e-e58674300439,Klub Radnych PiS w Grudziądzu,2023-02-08T05:57:26.567Z,88802691-ddf1-4b59-9b5e-2994c6cc212f,ZP,Poland,pl,571645086194796,Klub Radnych PiS w Grudziądzu,Facebook
 0b6502f0-0449-43c6-a64f-d589a0f71d7c,Adam Lutkowski,2023-02-13T10:51:42.311Z,043b8a2c-6690-4ffd-a89c-1a11aa3225a2,ZP,Poland,pl,101751661613203,Adam Lutkowski,Facebook
 0ba7ff38-090e-4c38-ba12-182dd7a28bcf,Monika Pohorecka - kandydatka do Senatu RP,2023-10-13T05:05:42.649Z,8fe3460f-4c32-40eb-8760-63c86721ce78,ZP,Poland,pl,142226062304463,Monika Pohorecka - kandydatka do Senatu RP,Facebook
@@ -2119,6 +2145,7 @@ ffdab050-3227-4393-81ca-44fc8af92114,Janusz Gromek - Senator RP,2023-07-25T05:06
 114eaf74-c25c-4b73-8496-8b07a38f545a,Anna Dąbrowska-Banaszek - Poseł na Sejm RP,2023-09-23T05:05:29.499Z,40b32d15-29db-4394-b814-800518469e53,ZP,Poland,pl,111118096917418,Anna Dąbrowska-Banaszek - Poseł na Sejm RP,Facebook
 1171512e-f065-477e-baf1-27857d6c22c6,Iwona Wilczyńska-Bączyk - kandydatka na posłankę na Sejm RP,2023-10-03T05:05:22.481Z,bb7c444d-c03f-4d7a-b9b6-b3da096b770f,ZP,Poland,pl,116454338222003,Iwona Wilczyńska-Bączyk - kandydatka na posłankę na Sejm RP,Facebook
 119486e7-bab9-4711-9e52-c46dc939ae9f,Piotr Chęciek,2023-05-03T06:51:19.038Z,2f44597a-0fde-44a2-8206-5da38d201ea2,ZP,Poland,pl,105859374127787,Piotr Chęciek,Facebook
+11e69fe2-c82a-4cd3-a4fd-1a9601d7c3d5,Maciej Bienert,2024-02-18T03:05:17.663Z,eb12bd9f-5d5d-458c-bcdc-1543560dccdf,ZP,Poland,pl,108440222241246,Maciej Bienert,Facebook
 1218985d-6b38-489c-853e-631c5a5bb5ea,Kazimierz Gołojuch Poseł na Sejm RP,2023-09-29T05:05:34.854Z,6e738cee-cf76-45f8-baee-92703421fac5,ZP,Poland,pl,272516002772033,Kazimierz Gołojuch Poseł na Sejm RP,Facebook
 1237142b-66e9-442a-8dd8-eaeaa871d3b6,Piotr Rycerski - Szef Gabinetu Politycznego Wicepremiera Jacka Sasina,2022-11-09T15:44:03.714Z,5125f5a8-bd8f-4b71-9c40-fc8bf5972991,ZP,Poland,pl,111725691638202,Piotr Rycerski - Szef Gabinetu Politycznego Wicepremiera Jacka Sasina,Facebook
 12c906a5-61bd-4b94-8d38-bcef95afabbe,Paweł Jabłoński,2023-07-08T06:05:50.833Z,73a7b49d-d2ce-4416-81d2-4ba01f2c6287,ZP,Poland,pl,114699243232023,Paweł Jabłoński,Facebook
@@ -2219,6 +2246,7 @@ ffdab050-3227-4393-81ca-44fc8af92114,Janusz Gromek - Senator RP,2023-07-25T05:06
 3a705ef7-fbef-4b94-8c63-580dd42930c0,Zbigniew Sosnowski - Wicemarszałek Województwa Kujawsko-Pomorskiego,2022-11-09T15:44:04.976Z,ae1fced2-fec4-4ec7-9420-9ec53d145be5,ZP,Poland,pl,107192867289501,Zbigniew Sosnowski - Wicemarszałek Województwa Kujawsko-Pomorskiego,Facebook
 3a8f9f3b-bdd1-42ee-be42-d4b80e6a09cd,Jarosław Wenderlich,2023-10-06T05:05:49.436Z,b3893521-1a56-4af1-a52e-b61373917cdf,ZP,Poland,pl,1472173116340739,Jarosław Wenderlich,Facebook
 3a96742b-6a83-4aae-902e-03a34e7cfaef,Piotr Wrona - Kandydat do Sejmu RP,2023-10-12T05:07:30.764Z,4cf70d52-3836-4992-890b-a4f8ba68df50,ZP,Poland,pl,1471593406451957,Piotr Wrona - Kandydat do Sejmu RP,Facebook
+3aa2ca54-ded4-4e1c-8a0c-bb4632d4008f,Jakub Pawłowski - Kandydat do samorządu 2024,2024-02-16T03:05:22.518Z,5c65d05d-8802-4c6a-a44e-78ee8f5734cc,ZP,Poland,pl,192739203914473,Jakub Pawłowski - Kandydat do samorządu 2024,Facebook
 3b630d89-3372-4625-a9bf-7bf6cc1b57a1,Piotr Semak - Radny Sejmiku Województwa Opolskiego,2023-06-06T06:51:18.152Z,117663e0-4fd3-4ed3-9ffd-2338577ad2b7,ZP,Poland,pl,177168043161941,Piotr Semak - Radny Sejmiku Województwa Opolskiego,Facebook
 3cd28f82-10ed-4103-8fac-13dfa99210d8,Zbigniew Ajchler Poseł na Sejm RP,2023-09-17T05:05:19.358Z,948b4b12-4e85-4aec-bafa-63877dc52a7d,ZP,Poland,pl,1771220979771719,Zbigniew Ajchler Poseł na Sejm RP,Facebook
 3e5beae9-a0aa-49c4-971a-7bd1ecbe23c5,Piotr Wrona,2023-12-11T05:05:16.870Z,477c7d5f-661b-4937-93e8-9c761d7329a3,ZP,Poland,pl,103974666020886,Piotr Wrona,Facebook
@@ -2226,6 +2254,7 @@ ffdab050-3227-4393-81ca-44fc8af92114,Janusz Gromek - Senator RP,2023-07-25T05:06
 3ea84e5d-43f0-447e-ac8c-30779c87a99d,Kocham Polskę,2023-10-08T05:05:51.613Z,a3f68311-31fa-449f-8911-e726611fe012,ZP,Poland,pl,141075165749444,Kocham Polskę,Facebook
 3f4f8103-e787-45b1-8abb-213df680ab9b,Mirosława Stachowiak-Różecka Poseł na Sejm RP,2023-09-29T05:05:33.765Z,95acd3c9-8d3b-483a-b91f-54a153ef4703,ZP,Poland,pl,248796291816473,Mirosława Stachowiak-Różecka Poseł na Sejm RP,Facebook
 41e5b1de-ed26-42c6-b815-66bf5b6b7535,Jerzy Gawęda,2023-10-09T05:05:40.481Z,1072f1db-1f99-4503-a83f-ab3044d896ae,ZP,Poland,pl,833937273328379,Jerzy Gawęda,Facebook
+4261f114-a855-4e56-90a0-0088ffd6e61a,Kamil Kołbuc,2024-02-18T03:05:17.671Z,d379f885-d2d2-49ad-b78d-6b1e48eb5c46,ZP,Poland,pl,104834302107438,Kamil Kołbuc,Facebook
 434a3377-57b3-403b-b258-9a45b67bc2c4,Michał Wiśniewski,2023-10-15T05:05:29.600Z,574cb63c-d421-453c-877b-04c1da0daa60,ZP,Poland,pl,145962688597892,Michał Wiśniewski,Facebook
 436c6db1-b156-4074-a49b-639a77aa93d5,Ireneusz Dzik,2023-10-02T05:05:07.646Z,8827b1ea-1e6f-4f37-b685-b38cf16468e2,ZP,Poland,pl,145114605344418,Ireneusz Dzik,Facebook
 44de22db-d0d9-40e0-92dc-3790e6587055,Bartosz Kownacki,2023-04-04T10:51:35.525Z,af2c22dc-19e5-455b-a4fb-702a6eefe903,ZP,Poland,pl,1435687536687711,Bartosz Kownacki,Facebook
@@ -2491,6 +2520,7 @@ c2c106c8-07a0-430b-813f-81d94cd77d2b,"Grzegorz Kapica, Radny Sejmiku Województw
 c321345a-2ff8-4ebc-b35b-8c3b5d42742b,Michał Kochanowski,2022-11-09T15:44:04.949Z,929a322c-c66e-4a21-9fd9-f335357567a3,ZP,Poland,pl,167106813398123,Michał Kochanowski,Facebook
 c32567cc-eb36-4fb5-a46e-9436ea219b2b,Christian Młynarek,2023-10-10T05:05:30.103Z,7852f3e7-9625-4ddb-9081-71b5665f9118,ZP,Poland,pl,168651456485052,Christian Młynarek,Facebook
 c3652784-a582-47b7-8684-970304caa65b,Zbigniew Bogucki - Wojewoda Zachodniopomorski,2023-06-30T05:06:06.517Z,6a0a99a3-8efc-4b24-9d2a-407fb007046f,ZP,Poland,pl,2210298879212833,Zbigniew Bogucki - Wojewoda Zachodniopomorski,Facebook
+c4e7c37c-5c96-4508-bb5b-f12afab1a951,Dominik Tarczyński - Poseł do Parlamentu Europejskiego,2024-02-16T03:05:21.550Z,697c547a-ce4b-490a-b73e-bd75f6917f07,ZP,Poland,pl,1508210356139938,Dominik Tarczyński - Poseł do Parlamentu Europejskiego,Facebook
 c6936de7-cb9e-4d1c-95cb-ee7e5dffc00f,Marcin OCIEPA,2023-02-07T15:05:58.180Z,c8199d50-b6b7-403c-8710-129da437ed63,ZP,Poland,pl,129996417011607,Marcin OCIEPA,Facebook
 c70795d2-ded3-487b-9f01-8ff36c5b92c7,Jan Dziedziczak,2023-08-04T05:06:05.467Z,362f0a9b-e706-4bdf-a954-91dcf91be63e,ZP,Poland,pl,150609968670955,Jan Dziedziczak,Facebook
 c824c210-2766-4ef4-8987-b564c027b9dd,Łukasz Dwornik - Radny Miasta Rybnika,2023-08-16T05:06:03.176Z,0cd77b74-0552-4eaf-813f-3c2b23c8aaaf,ZP,Poland,pl,102723966219943,Łukasz Dwornik - Radny Miasta Rybnika,Facebook
@@ -2576,6 +2606,7 @@ f0a65692-8b7d-47af-bfd8-0200c4c3466c,Monika Twardowska,2023-10-15T05:05:31.002Z,
 f1329afb-365d-403b-a13b-d515fc3425de,Dobromir Szymański,2023-07-31T10:52:05.210Z,cee7deb1-1faf-46a9-8927-96f1990c7996,ZP,Poland,pl,215217712682591,Dobromir Szymański,Facebook
 f164d509-d303-4b03-b4b5-c90c7500115e,Radny Gminy Długołęka   Krzysztof Karczewski,2024-01-21T05:05:35.317Z,fb4181e0-3e50-4017-93f2-49c4f74c98c8,ZP,Poland,pl,222848677569069,Radny Gminy Długołęka   Krzysztof Karczewski,Facebook
 f1a3365d-24d4-4fca-9e17-156d9d42fec4,Bartosz Wiktorczyk,2023-03-17T10:51:41.829Z,6bebcbdf-3c52-4dc4-aef2-0696f4a68fd1,ZP,Poland,pl,100940616042955,Bartosz Wiktorczyk,Facebook
+f2369c75-4f0b-4c96-8e24-3190d339ac5c,Marta Krzyżak,2024-02-18T03:05:17.224Z,66f85fee-5f71-4c01-83de-b4e5bcf3a1e7,ZP,Poland,pl,111757547183099,Marta Krzyżak,Facebook
 f2914dd0-4c05-4263-9ace-013aacd35275,Krzysztof Szczucki,2023-02-07T15:05:58.507Z,48eedaf4-c7b8-46a1-9c1e-63067e1838f8,ZP,Poland,pl,109269485083516,Krzysztof Szczucki,Facebook
 f34d667a-099b-4bae-8580-e824fa462f50,Sympatycy PiS - Białołęka,2022-11-09T15:44:03.879Z,3a776ffb-9f44-45b0-9b1c-70fc4baa6c44,ZP,Poland,pl,105397114568263,Sympatycy PiS - Białołęka,Facebook
 f3d62da1-2f18-4867-90a4-b19261721a34,Łukasz Podlewski - radomski radny,2023-04-11T10:51:16.918Z,bcec6583-5478-4eaf-9ef3-29a0576324b2,ZP,Poland,pl,257439131778821,Łukasz Podlewski - radomski radny,Facebook
@@ -2793,6 +2824,7 @@ b1b2999c-d2ba-48d4-bc06-3f846adf5017,Mateusz Orzechowski,2023-10-03T05:05:24.240
 b3e991b6-c576-4262-a587-0bc30fe8aebb,Rafał Grabski,2023-04-22T06:01:51.319Z,c31a004c-f9dd-42af-9b8d-db2a980c01d1,LEW,Poland,pl,109344727097819,Rafał Grabski,Facebook
 b5a0d2bf-afaa-4d4d-bbc7-f9c7c2e235b9,Konrad Gołota - Kandydat na Senatora,2023-09-30T05:05:32.077Z,867719cc-a7e5-4c78-b925-6ee6fff9df93,LEW,Poland,pl,135682106291843,Konrad Gołota - Kandydat na Senatora,Facebook
 b5ff6079-ac20-42cf-8749-c74fddbf2fe1,Sebastian Bednarski,2022-08-16T15:24:43.184Z,02e277c2-66e3-4252-9ffb-c892a0ebea59,LEW,Poland,pl,108151910545496,Sebastian Bednarski,Facebook
+ba56d802-4fa6-47ef-a8d8-2612d283a602,Anna Maria Łozińska,2024-02-18T03:05:17.625Z,fbd3c95f-4199-4eba-b99c-e6df21add0ac,LEW,Poland,pl,198031316733521,Anna Maria Łozińska,Facebook
 badfd95f-39ab-43d5-acb9-80601dff637e,Krzysztof Gawkowski,2023-02-19T10:51:48.540Z,c2fafee7-7bb0-49ab-b76d-b06c3bb85b93,LEW,Poland,pl,268366156599556,Krzysztof Gawkowski,Facebook
 bb4a3684-82dc-44f9-988d-3372f3596eb0,Daniel Oliszewski,2023-09-13T05:05:15.026Z,9fd2f84a-febd-4ff2-b84c-e7167225e172,LEW,Poland,pl,109030217332448,Daniel Oliszewski,Facebook
 bc6b31a9-9527-4541-811e-7867b8247544,Ewa Surowiec,2023-10-02T05:05:08.497Z,5e6026f7-6c73-4259-b8b0-4ea6ae1b596c,LEW,Poland,pl,108938168800616,Ewa Surowiec,Facebook
